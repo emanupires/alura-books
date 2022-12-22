@@ -15,9 +15,9 @@
 }
 
 .cabecalho__menu-hamburger {
-  width: 24px;
-  height: 24px;
-  background-image: url("/img/Menu.svg");
+  width: 14px;
+  height: 14px;
+  background-image: url("../img/Menu.svg");
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
