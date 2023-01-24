@@ -75,8 +75,13 @@
   text-decoration: none;
   color: var(--branco);
   font-weight: 700;
+  width: 25vw;
 }
 
 .card-estrela {
   margin-bottom: 8px;
+}
+
+.descricao__imagem {
+  width: 100vw;
 }
